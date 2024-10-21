@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eman-\\source\\repos\\ReversiGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{595DF4E7-D33D-4471-8E23-F7351FB4ABC5}|ReversiGame\\ReversiGame.csproj|c:\\users\\eman-\\source\\repos\\reversigame\\reversigame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595DF4E7-D33D-4471-8E23-F7351FB4ABC5}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eman-\\source\\repos\\ReversiGame\\ReversiGame\\Program.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Program.cs",
+              "ToolTip": "C:\\Users\\eman-\\source\\repos\\ReversiGame\\ReversiGame\\Program.cs",
+              "RelativeToolTip": "ReversiGame\\Program.cs",
+              "ViewState": "AgIAAHoBAAAABAAAAAAewPoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:38:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\obj\Debug\ReversiGame.csproj.AssemblyReference.cache
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\obj\Debug\ReversiGame.Properties.Resources.resources
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\obj\Debug\ReversiGame.csproj.GenerateResource.cache
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\obj\Debug\ReversiGame.csproj.CoreCompileInputs.cache
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\bin\Debug\ReversiGame.exe.config
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\bin\Debug\ReversiGame.exe
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\bin\Debug\ReversiGame.pdb
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\obj\Debug\ReversiGame.exe
+C:\Users\eman-\source\repos\ReversiGame\ReversiGame\obj\Debug\ReversiGame.pdb
